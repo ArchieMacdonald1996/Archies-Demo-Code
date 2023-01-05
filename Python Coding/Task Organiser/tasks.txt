@@ -1,0 +1,13 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 25 Apr 2023, 25 Oct 2019, No
+Archie, ArchieTest, This is a test for archie, 12 Oct 2022, 20 Apr 2069, Yes
+Archie, admin, b, 7 Jan 1996, 20 Apr 2069, Yes
+Archie, Today, today, 19 Oct 2022, 17 Oct 2022, Yes
+admin, Additional test task, This is a test, 19 Oct 2022, 5 Jan 2030, Yes
+Frank, For God's sake Frank:.: just do it, C'mon man:.: do it, 19 Oct 2022, 20 Apr 2069, Yes
+admin, Testy, Testytest, 19 Oct 2022, 20 Feb 2030, Yes
+Archie, kajflka, dfjdjfldsjf, 19 Oct 2022, 20 Apr 2034, No
+Archie, archie, ajdlasjdf, 19 Oct 2022, 15 Mar 2050, No
+Archie, arcxhis, sfjasjf, 19 Oct 2022, 18 Dec 2034, No
+Archie, jumpy, jumpy much, 19 Oct 2022, 20 Jun 2034, No
+admin, Test, Testeasd:.:asdad, 19 Oct 2022, 3 Apr 2033, No
